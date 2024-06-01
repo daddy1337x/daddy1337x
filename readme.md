@@ -1,4 +1,8 @@
 
+
+<p align="center">
+  <img src="https://us-east-1.tixte.net/uploads/daddy1337x.discowd.com/daddy1337x.webp" alt="GIF">
+</p>
 <h1 align="center">Hi, I'm <a href="https://github.com/daddy1337x">Daddy</a>!</h1>
 
 <p align="center">
